@@ -1,0 +1,23 @@
+{
+  "name": "datetime",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/elagituser1/DateTime#readme",
+  "bugs": {
+    "url": "https://github.com/elagituser1/DateTime/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elagituser1/DateTime.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "moment": "^2.29.0"
+  }
+}
